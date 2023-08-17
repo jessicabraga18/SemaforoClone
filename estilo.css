@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    color: rgb(190, 13, 13);
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+
+}
+
+main{
+    display: flex;
+    height: 70vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+}
+
+.button{
+    width: 80px;
+}
+
+footer{
+    color: rgb(238, 24, 24);
+    text-align: center;
+    font-style: italic;
+
+}
